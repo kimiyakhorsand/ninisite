@@ -1,0 +1,82 @@
+
+.c {
+    background-image: url(../images/vector.png);
+    width: 1357px;
+    height: 339px;
+    /* margin-top: 1000px; */
+    /* margin-left: 1000px; */
+}
+
+.a {
+    width: 1375px;
+    height: 339px;
+}
+
+.b{
+    border: none;
+    background: rgb(3, 108, 61);
+    padding: 0 auto;
+    display: inline-block;
+    border-radius: 100px;
+    cursor: pointer;
+    width: 300px;
+    height: 100px;
+    background-color: rgb(10, 141, 82);
+    font-size: 60px;
+    height: 170;
+}
+
+.b:hover{
+    background: red;
+    /* color: rgb(177, 43, 43); */
+}
+
+.q {
+    font-size: 70px;
+}
+
+.h {
+    margin-top: 1200px;
+}
+
+
+.bb{
+    border: none;
+    background: rgb(3, 108, 61);
+    padding: 0 auto;
+    display: inline-block;
+    border-radius: 100px;
+    cursor: pointer;
+    width: 300px;
+    height: 100px;
+    background-color: rgb(10, 141, 82);
+    font-size: 60px;
+    height: 170;
+    display: flex;
+    align-content: center;
+}
+
+.bb:hover{
+    background: red;
+    /* color: rgb(177, 43, 43); */
+}
+
+.l {
+    width: 1300px;
+    height: 100px;
+    margin-top: 60px;
+    font-size: 50px;
+}
+
+.z {
+    font-size: 100px;
+}
+
+.w {
+    border-bottom: 15px;
+}
+
+.y {
+    margin-top: 300px;
+    gap: 50px;
+}
